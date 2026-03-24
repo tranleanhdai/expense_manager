@@ -80,7 +80,7 @@ lib/
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+##  Công nghệ sử dụng
 
 * Flutter (Dart)
 * Firebase
@@ -142,22 +142,22 @@ flutter run
 ## Ảnh demo
 
 ### Trang chủ
-![Trang chủ](https://raw.githubusercontent.com/tranleanhdai/expense_manager/main/assets/images/trangchu.jpg)
+![Trang chủ](flutter_cuoiky/assets/images/trangchu.jpg)
 
 ### Giao dịch mới
-![Giao dịch mới](https://raw.githubusercontent.com/tranleanhdai/expense_manager/main/assets/images/giaodichmoi.jpg)
+![Giao dịch mới](flutter_cuoiky/assets/images/giaodichmoi.jpg)
 
 ### Danh sách giao dịch
-![Danh sách](https://raw.githubusercontent.com/tranleanhdai/expense_manager/main/assets/images/danhsachgiaodich.jpg)
+![Danh sách](flutter_cuoiky/assets/images/danhsachgiaodich.jpg)
 
 ### Ngân sách
-![Ngân sách](https://raw.githubusercontent.com/tranleanhdai/expense_manager/main/assets/images/ngansachdangapdung.jpg)
+![Ngân sách](flutter_cuoiky/assets/images/ngansachdangapdung.jpg)
 
 ### Hồ sơ
-![Hồ sơ](https://raw.githubusercontent.com/tranleanhdai/expense_manager/main/assets/images/hoso.jpg)
+![Hồ sơ](flutter_cuoiky/assets/images/hoso.jpg)
 
 ### Danh sách tiền
-![List tiền](https://raw.githubusercontent.com/tranleanhdai/expense_manager/main/assets/images/listtien.jpg)
+![List tiền](flutter_cuoiky/assets/images/listtien.jpg)
 
 ##  Đóng góp
 
