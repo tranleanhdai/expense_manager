@@ -142,9 +142,25 @@ flutter run
 
 ##  Ảnh demo
 
-> Thêm ảnh màn hình ở đây
 
----
+
+###  Trang chủ
+![Trang chủ](assets/images/trangchu.jpg)
+
+###  Giao dịch mới
+![Giao dịch mới](assets/images/giaodichmoi.jpg)
+
+###  Danh sách giao dịch
+![Danh sách](assets/images/danhsachgiaodich.jpg)
+
+###  Ngân sách
+![Ngân sách](assets/images/ngansachdangapdung.jpg)
+
+###  Hồ sơ
+![Hồ sơ](assets/images/hoso.jpg)
+
+###  Danh sách tiền
+![List tiền](assets/images/listtien.jpg)
 
 ##  Đóng góp
 
