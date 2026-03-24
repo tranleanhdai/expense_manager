@@ -139,28 +139,25 @@ flutter run
 * Tối ưu đồng bộ dữ liệu
 
 ---
-
 ##  Ảnh demo
 
-
-
 ###  Trang chủ
-![Trang chủ](assets/images/trangchu.jpg)
+![Trang chủ](./assets/images/trangchu.jpg)
 
-###  Giao dịch mới
-![Giao dịch mới](assets/images/giaodichmoi.jpg)
+### Giao dịch mới
+![Giao dịch mới](./assets/images/giaodichmoi.jpg)
 
 ###  Danh sách giao dịch
-![Danh sách](assets/images/danhsachgiaodich.jpg)
+![Danh sách](./assets/images/danhsachgiaodich.jpg)
 
 ###  Ngân sách
-![Ngân sách](assets/images/ngansachdangapdung.jpg)
+![Ngân sách](./assets/images/ngansachdangapdung.jpg)
 
 ###  Hồ sơ
-![Hồ sơ](assets/images/hoso.jpg)
+![Hồ sơ](./assets/images/hoso.jpg)
 
-###  Danh sách tiền
-![List tiền](assets/images/listtien.jpg)
+### Danh sách tiền
+![List tiền](./assets/images/listtien.jpg)
 
 ##  Đóng góp
 
