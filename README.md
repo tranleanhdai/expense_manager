@@ -141,23 +141,25 @@ flutter run
 ---
 ## Ảnh demo
 
-### Trang chủ
-![Trang chủ](flutter_cuoiky/assets/images/trangchu.jpg)
+##  Ảnh demo
 
-### Giao dịch mới
-![Giao dịch mới](flutter_cuoiky/assets/images/giaodichmoi.jpg)
+###  Trang chủ
+![Trang chủ](trangchu.jpg)
 
-### Danh sách giao dịch
-![Danh sách](flutter_cuoiky/assets/images/danhsachgiaodich.jpg)
+###  Giao dịch mới
+![Giao dịch mới](giaodichmoi.jpg)
 
-### Ngân sách
-![Ngân sách](flutter_cuoiky/assets/images/ngansachdangapdung.jpg)
+###  Danh sách giao dịch
+![Danh sách](danhsachgiaodich.jpg)
 
-### Hồ sơ
-![Hồ sơ](flutter_cuoiky/assets/images/hoso.jpg)
+###  Ngân sách
+![Ngân sách](ngansachdangapdung.jpg)
 
-### Danh sách tiền
-![List tiền](flutter_cuoiky/assets/images/listtien.jpg)
+###  Hồ sơ
+![Hồ sơ](hoso.jpg)
+
+###  Danh sách tiền
+![List tiền](listtien.jpg)
 
 ##  Đóng góp
 
